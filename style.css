@@ -1,0 +1,13 @@
+.row_block{
+    display:block;
+}
+
+.rowBlockFirst{
+    width:100px;
+    display:inline-block;
+}
+
+.rowBlock{
+    width:100px;
+    display:inline-block;
+}
